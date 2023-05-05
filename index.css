@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+    margin: 19% 43%;
+    position: relative;
+}
+
+#formulaire {
+    padding: auto 10% ;
+    display: none;
+
+}
+
+#r {
+    position: absolute;
+}
